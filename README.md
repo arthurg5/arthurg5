@@ -1,6 +1,7 @@
 Hi, I'm Arthur 👋
 
 📫 How to reach me darthur.gumery5@gmail.com
+
 Trained with Le Wagon in Paris during a full-time intensive coding bootcamp lasting 9 weeks
 
 My bootcamp projects:
